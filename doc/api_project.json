@@ -1,0 +1,24 @@
+{
+  "title": "File Metadata Microservice",
+  "url": "https://file-metadata-logan.herokuapp.com",
+  "header": {
+    "title": "Overview",
+    "content": "<h2>FreeCodeCamp Instructions:</h2>\n<ol>\n<li><strong>Objective:</strong> Build a full stack JavaScript app that is functionally similar to this: <a href=\"https://aryanj-file-size.herokuapp.com/\">https://aryanj-file-size.herokuapp.com/</a> and deploy it to Heroku.</li>\n<li>Note that for each project, you should create a new GitHub repository and a new Heroku project. If you can't remember how to do this, revisit <a href=\"https://freecodecamp.com/challenges/get-set-for-our-api-development-projects\">https://freecodecamp.com/challenges/get-set-for-our-api-development-projects</a>.</li>\n<li>Here are the specific user stories you should implement for this project:</li>\n<li><strong>User Story:</strong> I can submit a FormData object that includes a file upload.</li>\n<li><strong>User Story:</strong> When I submit something, I will receive the file size in bytes within the JSON response</li>\n<li><strong>Hint:</strong> You may want to use this package: https://www.npmjs.com/package/multer</li>\n<li>Once you've finished implementing these user stories, click the &quot;I've completed this challenge&quot; button and enter the URLs for both your GitHub repository and your live app running on Heroku.</li>\n<li>You can get feedback on your project by sharing it with your friends on Facebook.</li>\n</ol>\n<p>For more information, refer to <a href=\"https://www.freecodecamp.com/challenges/file-metadata-microservice\">https://www.freecodecamp.com/challenges/file-metadata-microservice</a>.</p>\n"
+  },
+  "footer": {
+    "title": "Author",
+    "content": "<h2>Logan Griswold</h2>\n<p><a href=\"https://github.com/logandhi\">GitHub</a> | <a href=\"mailto:logan.a.griswold@gmail.com\">logan.a.griswold@gmail.com</a></p>\n"
+  },
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "User can submit a FormData object that includes a file upload and will receive the file size in bytes within the JSON response",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2017-03-12T23:05:16.394Z",
+    "url": "http://apidocjs.com",
+    "version": "0.17.5"
+  }
+}
