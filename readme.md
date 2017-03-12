@@ -1,3 +1,5 @@
+Working demonstration: [https://file-metadata-logan.herokuapp.com/get-file-size](https://file-metadata-logan.herokuapp.com/get-file-size)
+
 ## FreeCodeCamp Instructions:
 1. **Objective:** Build a full stack JavaScript app that is functionally similar to this: [https://aryanj-file-size.herokuapp.com/](https://aryanj-file-size.herokuapp.com/) and deploy it to Heroku.
 2. Note that for each project, you should create a new GitHub repository and a new Heroku project. If you can't remember how to do this, revisit [https://freecodecamp.com/challenges/get-set-for-our-api-development-projects](https://freecodecamp.com/challenges/get-set-for-our-api-development-projects).
